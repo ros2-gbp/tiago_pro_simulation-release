@@ -2,6 +2,32 @@
 Changelog for package tiago_pro_gazebo
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.14.1 (2026-02-05)
+-------------------
+* uncomment tuck arm
+* remove end effectors teleop station - add wrist
+* Contributors: ileniaperrella
+
+1.14.0 (2026-02-02)
+-------------------
+* add end_effectors_teleop in the gazebo launch
+* fix launch file typos
+* fix missing comma
+* add TiagoProArgs ee teleop
+* add ft sensors in sim
+* add teleop in simulation
+* Contributors: ileniaperrella
+
+1.13.1 (2025-12-15)
+-------------------
+* missing deps
+* Contributors: antoniobrandi
+
+1.13.0 (2025-12-11)
+-------------------
+* Point Cloud filter pipeline
+* Contributors: antoniobrandi
+
 1.12.2 (2025-10-28)
 -------------------
 * Add condition for allegro hand on public simulation
