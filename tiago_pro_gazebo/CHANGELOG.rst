@@ -2,6 +2,32 @@
 Changelog for package tiago_pro_gazebo
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.17.1 (2026-06-25)
+-------------------
+* Add missing dependency ros_gz_sim
+* linters
+* typo
+* Update package.xml
+* Non-passed argument issue removed
+* Contributors: Narcis Miguel, Noel Jimenez, martinaannicelli
+
+1.17.0 (2026-06-02)
+-------------------
+* stores_server log level
+* separate advanced docking
+* Contributors: antoniobrandi
+
+1.16.0 (2026-03-30)
+-------------------
+* Add gz bridge
+* New gazebo
+* Contributors: thomaspeyrucain
+
+1.15.0 (2026-03-18)
+-------------------
+* Add support for short-wrist
+* Contributors: Noel Jimenez
+
 1.14.1 (2026-02-05)
 -------------------
 * uncomment tuck arm
