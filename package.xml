@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package format="3">
   <name>tiago_pro_gazebo</name>
-  <version>1.14.1</version>
+  <version>1.17.1</version>
   <description>The tiago_pro_gazebo package</description>
 
   <maintainer email="narcis.miguel@pal-robotics.com">Narcis Miguel</maintainer>
@@ -28,12 +28,17 @@
   <exec_depend>pal_urdf_utils</exec_depend>
   <exec_depend>gazebo_ros2_control</exec_depend>
   <exec_depend>gazebo_ros</exec_depend>
+  <exec_depend>gz_ros2_control</exec_depend>
+  <exec_depend>gz-sensors6</exec_depend>
   <exec_depend condition="$PAL_DISTRO >= alum">robot_info_publisher</exec_depend>
+  <exec_depend>nav2_bringup</exec_depend>
 
   <exec_depend>launch</exec_depend>
   <exec_depend>launch_pal</exec_depend>
   <exec_depend>launch_ros</exec_depend>
   <exec_depend>play_motion2_msgs</exec_depend>
+  <exec_depend>ros_gz_bridge</exec_depend>
+  <exec_depend>ros_gz_sim</exec_depend>
 
   <test_depend>ament_lint_auto</test_depend>
   <test_depend>ament_lint_common</test_depend>
