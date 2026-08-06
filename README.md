@@ -1,3 +1,29 @@
+## tiago_pro_simulation (humble) - 1.18.0-1
+
+The packages in the `tiago_pro_simulation` repository were released into the `humble` distro by running `/usr/bin/bloom-release --track humble --rosdistro humble tiago_pro_simulation -y` on `Thu, 06 Aug 2026 09:01:46 -0000`
+
+These packages were released:
+- `tiago_pro_gazebo`
+- `tiago_pro_mujoco`
+- `tiago_pro_simulation`
+
+Version of package(s) in repository `tiago_pro_simulation`:
+
+- upstream repository: https://github.com/pal-robotics/tiago_pro_simulation.git
+- release repository: https://github.com/ros2-gbp/tiago_pro_simulation-release.git
+- rosdistro version: `1.17.1-1`
+- old version: `1.17.1-1`
+- new version: `1.18.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.14.3`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## tiago_pro_simulation (humble) - 1.17.1-1
 
 The packages in the `tiago_pro_simulation` repository were released into the `humble` distro by running `/usr/bin/bloom-release --track humble --rosdistro humble -y tiago_pro_simulation` on `Thu, 25 Jun 2026 09:43:52 -0000`
